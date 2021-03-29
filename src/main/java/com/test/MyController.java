@@ -14,6 +14,6 @@ public class MyController {
     @RequestMapping("/get")
     @ResponseBody
     public String getName() {
-        return "1111111!!!!!!";
+        return "2222222！！！！";
     }
 }
